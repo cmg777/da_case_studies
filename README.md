@@ -7,7 +7,13 @@ Published on 6 May 2021 by Cambridge University Press
 [**gabors-data-analysis.com**](https://gabors-data-analysis.com/)
 
 
-## How to use
+## Code courses
+[Learning to code for data analysis](https://gabors-data-analysis.com/code-courses/)
+- Coding for Data Analysis [with Rstats](https://github.com/gabors-data-analysis/da-coding-rstats) by Ágoston Reguly with Gábor Békés
+- Coding for Data Analysis [with Python](https://github.com/gabors-data-analysis/da-coding-python) by Ádám Víg and Péter Duronelly with Ágoston Regulyand Gábor Békés
+- Coding for Data Analysis [with Stata](https://github.com/gabors-data-analysis/da-coding-stata) by László Tőkés with Ágoston Reguly and Gábor Békés
+
+## How to use the code of the book
 On the [textbook's website]((https://gabors-data-analysis.com/)), we have detailed discussion of how to set up libraries, get data and code: [Overview of data and code](https://gabors-data-analysis.com/data-and-code/)
 
 To see options for various languages, check out:
@@ -36,7 +42,6 @@ In the latest release we did some refactoring re Python and R codes. We continuo
 Data is hosted on OSF.io
 
 [Get data by datasets](https://osf.io/7epdj/)  
-
 
 
 ## Found an error or have a suggestion?
